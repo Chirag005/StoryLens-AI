@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+transformers
+torch
+langchain
+langchain-openai
+openai
+requests
